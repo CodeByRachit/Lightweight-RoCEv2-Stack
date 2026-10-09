@@ -1,4 +1,4 @@
-# Scalable RoCEv2 Lite
+# Lightweight RoCEv2 Stack
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-SystemVerilog-brightgreen.svg)
